@@ -1,0 +1,39 @@
+.subscribe{
+    background-color: rgb(202, 0, 0);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 130px;
+    margin-right: 10px; /*jep hapsire djathtas*/
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: solid;
+    font-size: larger;
+    font-weight: 400;
+    
+}
+
+.join{
+    background-color: white;
+    border-color: rgb(55, 55, 241);
+    border-radius: 2px;
+    height: 36px;
+    width: 100px;
+    color: rgb(56, 56, 255);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: large;
+}
+
+.tweet{
+    background-color: rgb(36, 131, 255);
+    color: white;
+    height: 36px;
+    width: 100px;
+    border-radius: 50px;
+    border: none;
+    margin-left: 10px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
